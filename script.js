@@ -3,7 +3,7 @@ document.querySelectorAll("nav a").forEach(a=>a.addEventListener("click",()=>doc
 
 // Replace this number with the business WhatsApp number before publishing.
 // Use country code, digits only. Example: 919876543210
-const WHATSAPP_NUMBER = "919246628685";
+const WHATSAPP_NUMBER = "919246638685";
 
 function sendEnquiry(e){
   e.preventDefault();
